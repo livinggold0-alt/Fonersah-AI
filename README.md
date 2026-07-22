@@ -1,2 +1,2 @@
 # Fonersah-AI
-App
+Maun App
